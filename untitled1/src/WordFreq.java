@@ -5,6 +5,7 @@ import java.io.IOException;
 import java.util.*;
 
 public class WordFreq {
+
     public static void main(String[] args) {
         String txtFileDirectory = "D://chrome download folder//musictextfilejava"; // Set Files Directory Path
         File directory = new File(txtFileDirectory);
@@ -72,3 +73,6 @@ public class WordFreq {
         }
     }
 }
+
+//new comment push git pls
+
